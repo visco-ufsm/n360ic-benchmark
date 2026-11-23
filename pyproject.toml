@@ -1,0 +1,12 @@
+[project]
+name = "n360ic-benchmark"
+version = "0.1.0"
+description = "Official code for the paper **'Neural 360° Image Compression: State-of-the-Art Benchmark and Perspectives'** by Giovanni Gaiardo and Thiago L.T. da Silveira, accepted at LASCAS 2027."
+readme = "README.md"
+authors = [{ name = "giovannigaiardo", email = "giovannigaiardo@hotmail.com" }]
+requires-python = ">=3.10"
+dependencies = []
+
+[build-system]
+requires = ["uv_build>=0.12.5,<0.13.0"]
+build-backend = "uv_build"

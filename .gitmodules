@@ -1,0 +1,9 @@
+[submodule "codecs/oslo-360-degree-image-compression"]
+	path = codecs/oslo-360-degree-image-compression
+	url = https://gitlab.inria.fr/on-the-sphere-learning-for-omnidirectional-images-oslo/oslo-360-degree-image-compression.git
+[submodule "codecs/li2022"]
+	path = codecs/li2022
+	url = https://github.com/limuhit/360-Image-Compression.git
+[submodule "codecs/li2024"]
+	path = codecs/li2024
+	url = https://github.com/limuhit/content_weighed_360_compression.git
